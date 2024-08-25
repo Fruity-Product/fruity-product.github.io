@@ -1,0 +1,32 @@
+
+@font-face {
+    font-family: 'Frutiger';
+    src: url(fonts/Frutiger.ttf) format("truetype");
+}
+
+header {
+    position: relative; 
+    padding: 20px;
+}
+
+.logo { 
+    width: 100px;  /* Adjust the width as needed */ 
+    height: auto;  /* Maintain aspect ratio */ 
+    position: absolute; /* Positioning the logo */ 
+    top: 0; 
+    left: 0; 
+} 
+
+div.se1a{
+    text-align: center;
+    font-size: 130px;
+    height: auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div.se1b {
+    text-align: center;
+    font-family: 'Frutiger';
+    font-size: 30px;
+    height: auto;
+}
